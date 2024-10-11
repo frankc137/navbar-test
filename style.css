@@ -1,0 +1,39 @@
+.resurection{
+    background-color: rgb(49, 49, 171);
+    display: inline-block;
+    justify-content: space-between;
+    border-radius: 12px;
+    height: 80px;
+    width: 100%;
+
+}
+
+.resurection .leftnav{
+    float: left;
+}
+.resurection .rightnav ul li{
+    list-style: none;
+    float: right;
+}
+
+.resurection .rightNav{
+    margin-top: -50px;
+    margin-right: 14px;
+
+}
+.rightNav{
+    float: right;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 30px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.resurection .rightnav ul{
+    text-decoration: none;
+
+}
